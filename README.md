@@ -18,4 +18,4 @@ Sou Luara Martins, Desenvolvedora Mobile Android com experiência em Kotlin, Jav
 - She/Her
 
 ### ⚡ Curiosidade:
-- Gosto de resolver quebra-cabeças e explorar novas tecnologias no meu tempo livre.
+- Gosto de resolver quebra-cabeças, sei montar o cubo mágico em aproximadamente 10 minutos.
