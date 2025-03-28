@@ -12,7 +12,10 @@ Sou Luara Martins, Desenvolvedora Mobile Android com experiência em Kotlin, Jav
 
 ### 📫 Como entrar em contato comigo:
 - Email: luara.m.ramos@gmail.com
+
+### 🌐Minhas redes:
 - GitHub: [luararamos](https://github.com/luararamos)
+- Linkedin: [luararamos-desenvolvedor-android](https://www.linkedin.com/in/luararamos-desenvolvedor-android/)
 
 ### 😄 Pronomes:
 - She/Her
