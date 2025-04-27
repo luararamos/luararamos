@@ -8,7 +8,10 @@ Sou Luara Martins, Desenvolvedora Mobile Android com experiência em Kotlin, Jav
 
 ### 🌱 Atualmente estou aprendendo:
 - Técnicas avançadas de desenvolvimento Android
-- Novos frameworks e bibliotecas para melhorar o desempenho de aplicativos
+- Novos frameworks e bibliotecas para otimização de aplicativos
+- Desenvolvimento backend com .NET
+- Lógica de programação em Python
+- Projetos de Internet das Coisas (IoT) com C# e Arduino
 
 ### 📫 Como entrar em contato comigo:
 - Email: luara.m.ramos@gmail.com
