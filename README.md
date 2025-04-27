@@ -3,7 +3,7 @@
 Sou Luara Martins, Desenvolvedora Mobile Android com experiência em Kotlin, Java, JavaScript e Python. Apaixonada por criar soluções inovadoras e funcionais, tenho habilidades no desenvolvimento de interfaces com Jetpack Compose, integração de APIs e gerenciamento de banco de dados com SQLite. Atualmente, estou cursando Engenharia de Software na FIAP e sempre busco novos desafios e aprendizados para aprimorar minhas habilidades.
 
 ### 🔭 Atualmente estou trabalhando em:
-- **[SoundSavvyApp](https://github.com/luararamos/SoundSavvyApp)**: Um aplicativo para descoberta e recomendação de músicas.
+- **Projetos da Faculdade FIAP
 
 
 ### 🌱 Atualmente estou aprendendo:
