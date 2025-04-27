@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Sou Luara Martins, Desenvolvedora Mobile Android com experiência em Kotlin, Java, JavaScript e Python. Apaixonada por criar soluções inovadoras e funcionais, tenho habilidades no desenvolvimento de interfaces com Jetpack Compose, integração de APIs e gerenciamento de banco de dados com SQLite. Atualmente, estou cursando Engenharia de Software na FIAP e sempre busco novos desafios e aprendizados para aprimorar minhas habilidades.
+Sou Luara Martins, Desenvolvedora Mobile Android com experiência em Kotlin, Java, .NET, JavaScript e Python. Apaixonada por criar soluções inovadoras e funcionais, tenho habilidades no desenvolvimento de interfaces com Jetpack Compose, integração de APIs e gerenciamento de banco de dados com SQLite. Atualmente, estou cursando Engenharia de Software na FIAP e sempre busco novos desafios e aprendizados para aprimorar minhas habilidades.
 
 ### 🔭 Atualmente estou trabalhando em:
 - **Projetos da Faculdade FIAP
